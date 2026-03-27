@@ -6,16 +6,16 @@ import { SITE } from '../site.config'
 // COPY — SUBSTITUIR POR CLIENTE (lp-copy.md → Bloco 5 Sobre)
 // ════════════════════════════════════════════════════════════════════
 const COPY = {
-  eyebrow: 'quem é fernanda zotti',
-  heading: 'De dentro da armadura',
-  headingEm: 'para o outro lado dela.',
+  eyebrow: 'sobre mim',
+  heading: 'Eu já estive dentro',
+  headingEm: 'dessa armadura.',
   paragraphs: [
-    'Por 10 anos, Fernanda empreendeu no mercado da beleza. Aprendeu a performar competência, a resolver o irresolvível, a ser a pessoa que todo mundo sabia que ia dar um jeito. Por fora, funcionava. Por dentro, havia uma fragmentação que ela não sabia nem nomear. E havia uma pergunta que crescia em silêncio: quem sou eu fora do que faço?',
-    'A resposta não veio de um momento dramático. Veio de um processo de restauração que integrou o que a espiritualidade ensinava e o que o psiquismo precisava. E de uma experiência inesperada: o trabalho em penitenciárias femininas, onde Fernanda encontrou mulheres que, apesar de tudo que as separava dela, carregavam a mesma pergunta silenciosa sobre quem eram de verdade.',
-    'Hoje, Fernanda Zotti é terapeuta especializada em restauração de identidade e governo emocional para mulheres. Trabalha com líderes, empreendedoras, mulheres em transição de vida, mulheres de fé que se perguntam por que ainda se sentem vazias. Seu método nasce de onde ela esteve, do que aprendeu e do que encontrou do outro lado da armadura.',
+    'Por 10 anos, empreendi no mercado da beleza. Aprendi a performar competência, a resolver o irresolvível, a ser a pessoa que todo mundo sabia que ia dar um jeito. Por fora, funcionava. Por dentro, havia uma fragmentação que eu não sabia nem nomear. E havia uma pergunta que crescia em silêncio: quem sou eu fora do que faço?',
+    'A resposta não veio de um momento dramático. Veio de um processo de restauração que integrou o que a espiritualidade me ensinava e o que meu psiquismo precisava. E de uma experiência inesperada: o trabalho em penitenciárias femininas, onde encontrei mulheres que, apesar de tudo que as separava de mim, carregavam a mesma pergunta silenciosa sobre quem eram de verdade.',
+    'Hoje sou terapeuta especializada em restauração de identidade e governo emocional para mulheres. Trabalho com líderes, empreendedoras, mulheres em transição de vida, mulheres de fé que se perguntam por que ainda se sentem vazias. Meu método nasce de onde eu estive, do que aprendi e do que encontrei do outro lado da armadura.',
   ],
   transition: 'Esse trabalho não é para toda mulher. É para a mulher que está pronta para olhar para si mesma com honestidade.',
-  ctaText: 'Quero conhecer o processo',
+  ctaText: 'Quero agendar minha conversa',
 }
 // ════════════════════════════════════════════════════════════════════
 

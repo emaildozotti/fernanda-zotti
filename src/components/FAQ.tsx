@@ -11,7 +11,7 @@ const COPY = {
   faqs: [
     {
       q: 'Terapia contradiz a minha fé?',
-      a: 'Não. O método de Fernanda foi desenvolvido para integrar saúde do psiquismo e espiritualidade cristã. A fé não é ignorada no processo, ela é parte constitutiva dele. Cuidar da mente e das emoções é um ato de responsabilidade com o que Deus criou.',
+      a: 'Não. Meu método foi desenvolvido para integrar saúde do psiquismo e espiritualidade cristã. A fé não é ignorada no processo, ela é parte constitutiva dele. Cuidar da mente e das emoções é um ato de responsabilidade com o que Deus criou.',
     },
     {
       q: 'Tenho medo de tirar a armadura e não sobrar nada. É normal?',
@@ -23,7 +23,7 @@ const COPY = {
     },
     {
       q: 'Quanto tempo dura o processo?',
-      a: 'Depende do que o mapeamento inicial revelar. O processo de restauração de identidade não tem prazo fixo porque cada mulher carrega um padrão diferente. A sessão inicial é justamente o espaço para entender o que o seu momento exige.',
+      a: 'Depende do que o mapeamento inicial revelar. Meu processo de restauração de identidade não tem prazo fixo porque cada mulher carrega um padrão diferente. A sessão inicial é justamente o espaço para eu entender o que o seu momento exige.',
     },
     {
       q: 'Preciso estar em crise para buscar esse processo?',

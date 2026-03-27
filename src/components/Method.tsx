@@ -6,26 +6,26 @@ import { FadeIn } from './FadeIn'
 const COPY = {
   eyebrow: 'como o processo funciona',
   heading: 'O Método do Espelho e da Restauração',
-  intro: 'Não é terapia convencional. Não é coaching espiritual. É um processo de restauração de identidade que trabalha na raiz do padrão que faz mulheres competentes, espiritualmente ativas e cuidadosas, perderem contato com quem elas realmente são.',
+  intro: 'Não é terapia convencional. Não é coaching espiritual. É um processo de restauração de identidade que eu desenvolvi para trabalhar na raiz do padrão que faz mulheres competentes, espiritualmente ativas e cuidadosas, perderem contato com quem realmente são.',
   pillars: [
     {
       title: 'Psiquismo e Espiritualidade Integrados',
-      body: 'Muitas abordagens tratam a saúde emocional e a vida espiritual como caminhos paralelos. Este método entende que eles se potencializam quando trabalhados juntos. Cada sessão respeita a fé como parte constitutiva da identidade, não como obstáculo ao processo.',
+      body: 'Muitas abordagens tratam a saúde emocional e a vida espiritual como caminhos paralelos. No meu método, eles se potencializam quando trabalhados juntos. Cada sessão respeita a fé como parte constitutiva da identidade, não como obstáculo ao processo.',
       expanded: false,
     },
     {
       title: 'O Tempo de Espelho',
-      body: 'O núcleo do método é o que Fernanda chama de Tempo de Espelho: o momento em que uma mulher para de se ver através dos olhos dos outros e começa o processo de autorresponsabilidade real. Não culpa. Não julgamento. Reconhecimento honesto de quem ela é, o que aprendeu, o que carrega e o que pode ser diferente. É o passo mais difícil e o mais libertador. Porque tirar a armadura não significa desabar. Significa finalmente descobrir o que estava por baixo dela.',
+      body: 'O núcleo do meu método é o que eu chamo de Tempo de Espelho: o momento em que você para de se ver através dos olhos dos outros e começa o processo de autorresponsabilidade real. Não culpa. Não julgamento. Reconhecimento honesto de quem você é, o que aprendeu, o que carrega e o que pode ser diferente. É o passo mais difícil e o mais libertador. Porque tirar a armadura não significa desabar. Significa finalmente descobrir o que estava por baixo dela.',
       expanded: true,
     },
     {
       title: 'Restauração da Identidade e Governo Emocional',
-      body: 'O objetivo não é resolver sintomas. É restaurar a mulher à dignidade de ser quem foi criada para ser, com capacidade de governar a própria vida emocional sem precisar se anular para isso.',
+      body: 'Meu objetivo não é resolver sintomas. É restaurar você à dignidade de ser quem foi criada para ser, com capacidade de governar a própria vida emocional sem precisar se anular para isso.',
       expanded: false,
     },
   ],
   pillarCentralLabel: 'Tempo de Espelho',
-  naoPrometo: 'Este método não promete curas mágicas, milagres instantâneos ou alívio sem esforço. O processo é real, exige presença e honestidade. O resultado também é real.',
+  naoPrometo: 'Não prometo curas mágicas, milagres instantâneos ou alívio sem esforço. O processo é real, exige presença e honestidade. O resultado também é real.',
   transition: 'Se isso ressoa com o que você precisa, o próximo passo é uma conversa.',
 }
 // ════════════════════════════════════════════════════════════════════
