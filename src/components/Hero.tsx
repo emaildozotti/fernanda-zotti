@@ -6,7 +6,7 @@ import { SITE } from '../site.config'
 // COPY — SUBSTITUIR POR CLIENTE (lp-copy.md → Bloco 1 Hero)
 // ════════════════════════════════════════════════════════════════════
 const COPY = {
-  callout: 'PARA A MULHER QUE DÁ TUDO',
+  callout: 'A MULHER QUE DÁ CONTA DE TUDO',
   h1: 'Você deu conta do mundo inteiro.',
   h1Em: 'Quando foi a última vez que deu conta de você?',
   subtitle: 'Para a mulher que sustenta tudo e todos, mas que por dentro já não sabe mais quem é.',

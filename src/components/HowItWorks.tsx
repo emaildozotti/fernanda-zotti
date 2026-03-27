@@ -9,12 +9,12 @@ const COPY = {
   heading: 'Da primeira conversa ao processo real',
   steps: [
     {
-      title: 'Sessão Inicial',
-      body: 'Você preenche um formulário simples e agenda uma sessão online. É o espaço para entender se existe alinhamento entre o que você precisa e o que esse processo oferece. Sem pressão. Sem compromisso além de aparecer.',
+      title: 'Conversa Inicial',
+      body: 'Fernanda entra em contato pelo WhatsApp para entender o seu momento. É uma conversa breve, sem pressão, para avaliar se existe alinhamento entre o que você precisa e o que esse processo oferece.',
     },
     {
-      title: 'Avaliação e Mapeamento',
-      body: 'Na primeira sessão, Fernanda faz um mapeamento do que está em jogo. Não para diagnosticar, mas para entender a raiz do padrão que você carrega e o que o processo de restauração vai precisar trabalhar.',
+      title: 'Mapeamento e Primeira Sessão',
+      body: 'Na primeira sessão online, Fernanda faz um mapeamento do que está em jogo. Não para diagnosticar, mas para entender a raiz do padrão que você carrega e o que o processo de restauração vai precisar trabalhar.',
     },
     {
       title: 'O Processo de Restauração',
